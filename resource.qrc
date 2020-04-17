@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/huochezhalan.png</file>
+        <file>img/jiantou.png</file>
+        <file>img/huoche.png</file>
+        <file>img/tuxing.png</file>
+        <file>img/logo.png</file>
+        <file>img/close.png</file>
+        <file>img/details.png</file>
+        <file>img/pay.png</file>
+        <file>img/Refresh.png</file>
+    </qresource>
+    <qresource lang="/Qss" prefix="/Qss"/>
+    <qresource lang="/Qss" prefix="/main.qss"/>
+</RCC>
